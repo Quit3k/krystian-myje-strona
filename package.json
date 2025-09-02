@@ -1,9 +1,10 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "krystian-myje-strona",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Quit3k.github.io/classic-cars-strona",
+  "homepage": "https://quit3k.github.io/krystian-myje-strona/", 
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
